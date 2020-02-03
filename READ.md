@@ -7,3 +7,4 @@ The overall goal of this assignment was to create a portfolio for later use to r
 Organized each section in the code to make it more readable and understandable.
 Went through and organized code to make sure it is all set up and neat
 Went into style.css and made sure it would work on mobile devices as well
+Did not give the social media links an href to another site, as I need to update my social media links. Will do so far when updating the portfolio with more work references come into play.
